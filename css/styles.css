@@ -163,13 +163,12 @@ p {
     text-align: center;
   }
 
-  @media (max-width: 994px) {
-    .nav-item {
-      text-align: left;
-    }
-  }
   .title-image {
     position: static;
     transform: rotate(0);
+  }
+  
+  .nav-item {
+      text-align: left;
   }
 }
